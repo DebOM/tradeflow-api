@@ -1,6 +1,0 @@
-TradeFlow API is a production-grade backend starter kit built using Node.js, TypeScript, Express, and a clean modular architecture.
-It includes all essential backend engineering patterns required for scalable enterprise applications: well-structured modules, controllers, services, repositories, middleware layers, API error handling, logging, environment configuration, and clean project organization.
-
-This project is designed as a foundation for real-world microservices systems, with planned extensions for Kafka messaging, Prisma/PostgreSQL integration, authentication, CI/CD pipelines, Dockerization, and service-to-service communication.
-
-Perfect for learning modern backend development or for use as a scalable starting point for larger enterprise systems.
